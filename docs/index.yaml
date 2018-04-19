@@ -2,47 +2,47 @@ apiVersion: v1
 entries:
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-04-19T12:43:34.039497193-07:00
+    created: 2018-04-19T12:49:30.827872665-07:00
     description: A Helm chart for Kubernetes
     digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
     name: loyaltylevelchart
     urls:
-    - https://dockerpot.gitbub.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    - https://dockerpot.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
     version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-04-19T12:43:34.041250671-07:00
+    created: 2018-04-19T12:49:30.828496496-07:00
     description: A Helm chart for Kubernetes
-    digest: c5aa524d14309066f4245eae8d2d0888a029f7139e49560fbef71797624afb75
+    digest: dd82a7000a3a95ce849a53605cdbbc1b89872d993fe10ed62b2e16866619bc32
     name: notificationchart
     urls:
-    - https://dockerpot.gitbub.io/mycharts/notificationchart-0.1.0.tgz
+    - https://dockerpot.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-04-19T12:43:34.042469998-07:00
+    created: 2018-04-19T12:49:30.829399097-07:00
     description: A Helm chart for Kubernetes
     digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
     name: portfoliochart
     urls:
-    - https://dockerpot.gitbub.io/mycharts/portfoliochart-0.1.0.tgz
+    - https://dockerpot.github.io/mycharts/portfoliochart-0.1.0.tgz
     version: 0.1.0
   stockquotechart:
   - apiVersion: v1
-    created: 2018-04-19T12:43:34.042954256-07:00
+    created: 2018-04-19T12:49:30.829961704-07:00
     description: A Helm chart for Kubernetes
     digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
     name: stockquotechart
     urls:
-    - https://dockerpot.gitbub.io/mycharts/stockquotechart-0.1.0.tgz
+    - https://dockerpot.github.io/mycharts/stockquotechart-0.1.0.tgz
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-04-19T12:43:34.043665484-07:00
+    created: 2018-04-19T12:49:30.831079299-07:00
     description: A Helm chart for Kubernetes
     digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
     name: traderchart
     urls:
-    - https://dockerpot.gitbub.io/mycharts/traderchart-0.1.0.tgz
+    - https://dockerpot.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-19T12:43:34.038780582-07:00
+generated: 2018-04-19T12:49:30.826312503-07:00
