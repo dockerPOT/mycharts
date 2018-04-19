@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2018-04-19T09:50:34.986616801-07:00
+    created: 2018-04-19T11:16:42.19865743-07:00
     description: A Helm chart for Kubernetes
-    digest: f48249594276933023bc56d633e2838027700921638d20e2452a86aba1bfcf7c
+    digest: 59bf1fc65a91496b8887f05cf1a082af070f55446c014e1ccb2f0c84df2ee853
     name: notificationchart
     urls:
     - https://dockerpot.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-19T09:50:34.985868342-07:00
+generated: 2018-04-19T11:16:42.197761767-07:00
